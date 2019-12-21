@@ -1,9 +1,6 @@
-package module_three.test_three_exercise.post_office_1;
+package module_three.test_three_exercise.post_office;
 
-import module_three.test_three_exercise.post_office_1.db.DbDao;
-import module_three.test_three_exercise.post_office_1.models.PostOffice;
-
-import java.sql.SQLException;
+import module_three.test_three_exercise.post_office.models.PostOffice;
 
 public class Demo {
     public static void main(String[] args) {

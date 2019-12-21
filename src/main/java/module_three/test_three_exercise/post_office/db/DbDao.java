@@ -1,6 +1,6 @@
-package module_three.test_three_exercise.post_office_1.db;
+package module_three.test_three_exercise.post_office.db;
 
-import module_three.test_three_exercise.post_office_1.models.Package;
+import module_three.test_three_exercise.post_office.models.Package;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

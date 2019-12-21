@@ -1,4 +1,4 @@
-package module_three.test_three_exercise.post_office_1.models;
+package module_three.test_three_exercise.post_office.models;
 
 public class Letter extends Package {
     public Letter(Citizen sender, Citizen receiver) {

@@ -1,4 +1,4 @@
-package module_three.test_three_exercise.post_office_1.models;
+package module_three.test_three_exercise.post_office.models;
 
 import java.util.ArrayList;
 import java.util.List;
