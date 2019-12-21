@@ -1,0 +1,100 @@
+Book1 - taken at 2019-12-02T18:48:12.400968400 - has to be returned at 2019-12-02T18:48:17.400968400
+Book2 - taken at 2019-12-02T18:48:12.400968400 - has to be returned at 2019-12-02T18:48:13.400968400
+TextBook1 - taken at 2019-12-02T18:48:12.400968400 - has to be returned at 2019-12-02T18:48:12.400968400
+Total taken reading materials: 3
+Book1 - taken at 2019-12-02T18:48:12.400968400 - has to be returned at 2019-12-02T18:48:17.400968400
+Book2 - taken at 2019-12-02T18:48:12.400968400 - has to be returned at 2019-12-02T18:48:13.400968400
+TextBook1 - taken at 2019-12-02T18:48:12.400968400 - has to be returned at 2019-12-02T18:48:12.400968400
+Total taken reading materials: 3
+Book1 - taken at 2019-12-02T18:48:12.400968400 - has to be returned at 2019-12-02T18:48:17.400968400
+Book2 - taken at 2019-12-02T18:48:12.400968400 - has to be returned at 2019-12-02T18:48:13.400968400
+TextBook1 - taken at 2019-12-02T18:48:12.400968400 - has to be returned at 2019-12-02T18:48:12.400968400
+Total taken reading materials: 3
+Book1 - taken at 2019-12-02T18:48:12.400968400 - has to be returned at 2019-12-02T18:48:17.400968400
+Book2 - taken at 2019-12-02T18:48:12.400968400 - has to be returned at 2019-12-02T18:48:13.400968400
+TextBook1 - taken at 2019-12-02T18:48:12.400968400 - has to be returned at 2019-12-02T18:48:12.400968400
+Total taken reading materials: 3
+Book1 - taken at 2019-12-02T18:48:12.400968400 - has to be returned at 2019-12-02T18:48:17.400968400
+Book2 - taken at 2019-12-02T18:48:12.400968400 - has to be returned at 2019-12-02T18:48:13.400968400
+TextBook1 - taken at 2019-12-02T18:48:12.400968400 - has to be returned at 2019-12-02T18:48:12.400968400
+Total taken reading materials: 3
+Book1 - taken at 2019-12-02T18:51:21.000601400 - has to be returned at 2019-12-02T18:51:28.000601400
+TextBook1 - taken at 2019-12-02T18:51:21.000601400 - has to be returned at 2019-12-02T18:51:22.000601400
+Book2 - taken at 2019-12-02T18:51:21.000601400 - has to be returned at 2019-12-02T18:51:21.000601400
+Total taken reading materials: 3
+Book1 - taken at 2019-12-02T18:51:21.000601400 - has to be returned at 2019-12-02T18:51:28.000601400
+TextBook1 - taken at 2019-12-02T18:51:21.000601400 - has to be returned at 2019-12-02T18:51:22.000601400
+Book2 - taken at 2019-12-02T18:51:21.000601400 - has to be returned at 2019-12-02T18:51:21.000601400
+Total taken reading materials: 3
+Book1 - taken at 2019-12-02T18:51:21.000601400 - has to be returned at 2019-12-02T18:51:28.000601400
+TextBook1 - taken at 2019-12-02T18:51:21.000601400 - has to be returned at 2019-12-02T18:51:22.000601400
+Book2 - taken at 2019-12-02T18:51:21.000601400 - has to be returned at 2019-12-02T18:51:21.000601400
+Total taken reading materials: 3
+Book1 - taken at 2019-12-02T18:51:21.000601400 - has to be returned at 2019-12-02T18:51:28.000601400
+TextBook1 - taken at 2019-12-02T18:51:21.000601400 - has to be returned at 2019-12-02T18:51:22.000601400
+Book2 - taken at 2019-12-02T18:51:21.000601400 - has to be returned at 2019-12-02T18:51:21.000601400
+Total taken reading materials: 3
+Book1 - taken at 2019-12-02T18:51:21.000601400 - has to be returned at 2019-12-02T18:51:28.000601400
+TextBook1 - taken at 2019-12-02T18:51:21.000601400 - has to be returned at 2019-12-02T18:51:22.000601400
+Book2 - taken at 2019-12-02T18:51:21.000601400 - has to be returned at 2019-12-02T18:51:21.000601400
+Total taken reading materials: 3
+TextBook1 - taken at 2019-12-03T10:23:48.055771400 - has to be returned at 2019-12-03T10:23:55.055771400
+Book2 - taken at 2019-12-03T10:23:48.055771400 - has to be returned at 2019-12-03T10:23:51.055771400
+Book1 - taken at 2019-12-03T10:23:48.055771400 - has to be returned at 2019-12-03T10:23:53.055771400
+Total taken reading materials: 3
+TextBook1 - taken at 2019-12-03T10:23:48.055771400 - has to be returned at 2019-12-03T10:23:55.055771400
+Book2 - taken at 2019-12-03T10:23:48.055771400 - has to be returned at 2019-12-03T10:23:51.055771400
+Book1 - taken at 2019-12-03T10:23:48.055771400 - has to be returned at 2019-12-03T10:23:53.055771400
+Total taken reading materials: 3
+TextBook1 - taken at 2019-12-03T10:23:48.055771400 - has to be returned at 2019-12-03T10:23:55.055771400
+Book2 - taken at 2019-12-03T10:23:48.055771400 - has to be returned at 2019-12-03T10:23:51.055771400
+Book1 - taken at 2019-12-03T10:23:48.055771400 - has to be returned at 2019-12-03T10:23:53.055771400
+Total taken reading materials: 3
+TextBook1 - taken at 2019-12-03T10:23:48.055771400 - has to be returned at 2019-12-03T10:23:55.055771400
+Book2 - taken at 2019-12-03T10:23:48.055771400 - has to be returned at 2019-12-03T10:23:51.055771400
+Book1 - taken at 2019-12-03T10:23:48.055771400 - has to be returned at 2019-12-03T10:23:53.055771400
+Total taken reading materials: 3
+TextBook1 - taken at 2019-12-03T10:23:48.055771400 - has to be returned at 2019-12-03T10:23:55.055771400
+Book2 - taken at 2019-12-03T10:23:48.055771400 - has to be returned at 2019-12-03T10:23:51.055771400
+Book1 - taken at 2019-12-03T10:23:48.055771400 - has to be returned at 2019-12-03T10:23:53.055771400
+Total taken reading materials: 3
+TextBook1 - taken at 2019-12-03T10:25:29.532475300 - has to be returned at 2019-12-03T10:25:34.532475300
+Book2 - taken at 2019-12-03T10:25:29.532475300 - has to be returned at 2019-12-03T10:25:35.532475300
+Book1 - taken at 2019-12-03T10:25:29.532475300 - has to be returned at 2019-12-03T10:25:29.532475300
+Total taken reading materials: 3
+TextBook1 - taken at 2019-12-03T10:25:29.532475300 - has to be returned at 2019-12-03T10:25:34.532475300
+Book2 - taken at 2019-12-03T10:25:29.532475300 - has to be returned at 2019-12-03T10:25:35.532475300
+Book1 - taken at 2019-12-03T10:25:29.532475300 - has to be returned at 2019-12-03T10:25:29.532475300
+Total taken reading materials: 3
+TextBook1 - taken at 2019-12-03T10:25:29.532475300 - has to be returned at 2019-12-03T10:25:34.532475300
+Book2 - taken at 2019-12-03T10:25:29.532475300 - has to be returned at 2019-12-03T10:25:35.532475300
+Book1 - taken at 2019-12-03T10:25:29.532475300 - has to be returned at 2019-12-03T10:25:29.532475300
+Total taken reading materials: 3
+TextBook1 - taken at 2019-12-03T10:25:29.532475300 - has to be returned at 2019-12-03T10:25:34.532475300
+Book2 - taken at 2019-12-03T10:25:29.532475300 - has to be returned at 2019-12-03T10:25:35.532475300
+Book1 - taken at 2019-12-03T10:25:29.532475300 - has to be returned at 2019-12-03T10:25:29.532475300
+Total taken reading materials: 3
+TextBook1 - taken at 2019-12-03T10:25:29.532475300 - has to be returned at 2019-12-03T10:25:34.532475300
+Book2 - taken at 2019-12-03T10:25:29.532475300 - has to be returned at 2019-12-03T10:25:35.532475300
+Book1 - taken at 2019-12-03T10:25:29.532475300 - has to be returned at 2019-12-03T10:25:29.532475300
+Total taken reading materials: 3
+TextBook1 - taken at 2019-12-03T10:27:06.107522500 - has to be returned at 2019-12-03T10:27:14.107522500
+Book2 - taken at 2019-12-03T10:27:06.107522500 - has to be returned at 2019-12-03T10:27:06.107522500
+Book1 - taken at 2019-12-03T10:27:06.107522500 - has to be returned at 2019-12-03T10:27:13.107522500
+Total taken reading materials: 3
+TextBook1 - taken at 2019-12-03T10:27:06.107522500 - has to be returned at 2019-12-03T10:27:14.107522500
+Book2 - taken at 2019-12-03T10:27:06.107522500 - has to be returned at 2019-12-03T10:27:06.107522500
+Book1 - taken at 2019-12-03T10:27:06.107522500 - has to be returned at 2019-12-03T10:27:13.107522500
+Total taken reading materials: 3
+TextBook1 - taken at 2019-12-03T10:27:06.107522500 - has to be returned at 2019-12-03T10:27:14.107522500
+Book2 - taken at 2019-12-03T10:27:06.107522500 - has to be returned at 2019-12-03T10:27:06.107522500
+Book1 - taken at 2019-12-03T10:27:06.107522500 - has to be returned at 2019-12-03T10:27:13.107522500
+Total taken reading materials: 3
+TextBook1 - taken at 2019-12-03T10:27:06.107522500 - has to be returned at 2019-12-03T10:27:14.107522500
+Book2 - taken at 2019-12-03T10:27:06.107522500 - has to be returned at 2019-12-03T10:27:06.107522500
+Book1 - taken at 2019-12-03T10:27:06.107522500 - has to be returned at 2019-12-03T10:27:13.107522500
+Total taken reading materials: 3
+TextBook1 - taken at 2019-12-03T10:27:06.107522500 - has to be returned at 2019-12-03T10:27:14.107522500
+Book2 - taken at 2019-12-03T10:27:06.107522500 - has to be returned at 2019-12-03T10:27:06.107522500
+Book1 - taken at 2019-12-03T10:27:06.107522500 - has to be returned at 2019-12-03T10:27:13.107522500
+Total taken reading materials: 3

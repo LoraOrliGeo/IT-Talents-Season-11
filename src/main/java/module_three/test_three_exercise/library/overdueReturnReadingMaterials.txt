@@ -1,0 +1,18 @@
+{"Reading Materail":"Book2","Compensation":0.0812080199999996,"Reader":"Tosho"}
+Total compensation: 0.0812080199999996
+{"Reading Materail":"TextBook1","Compensation":0.029999999999999805,"Reader":"Mimi"}
+{"Reading Materail":"Book1","Compensation":0.040200000000000014,"Reader":"Pesho"}
+{"Reading Materail":"Book2","Compensation":0.18737054536872133,"Reader":"Tosho"}
+Total compensation: 0.25757054536872115
+{"Reading Materail":"Book1","Compensation":0.14427070421401922,"Reader":"Pesho"}
+{"Reading Materail":"TextBook1","Compensation":0.18456045180300018,"Reader":"Mimi"}
+{"Reading Materail":"Book2","Compensation":0.2989484264752442,"Reader":"Tosho"}
+Total compensation: 0.6277795824922636
+{"Reading Materail":"Book1","Compensation":0.2536500602639391,"Reader":"Pesho"}
+{"Reading Materail":"TextBook1","Compensation":0.3470050399959499,"Reader":"Mimi"}
+{"Reading Materail":"Book2","Compensation":0.41621790088706234,"Reader":"Tosho"}
+Total compensation: 1.0168730011469513
+{"Reading Materail":"Book1","Compensation":0.36860886274587035,"Reader":"Pesho"}
+{"Reading Materail":"TextBook1","Compensation":0.5177359347710957,"Reader":"Mimi"}
+{"Reading Materail":"Book2","Compensation":0.5394692970638286,"Reader":"Tosho"}
+Total compensation: 1.4258140945807947
